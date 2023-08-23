@@ -1,0 +1,10 @@
+Task1: https://github.com/philsv/jbbmo-Introduction-to-Git-and-GitHub
+Task2: https://github.com/philsv/jbbmo-Introduction-to-Git-and-GitHub/blob/master/LICENSE
+Task3: https://github.com/philsv/jbbmo-Introduction-to-Git-and-GitHub/blob/master/README.md
+Task4: https://github.com/philsv/jbbmo-Introduction-to-Git-and-GitHub/blob/master/CODE_OF_CONDUCT.md
+Task5: https://github.com/philsv/jbbmo-Introduction-to-Git-and-GitHub/blob/master/CONTRIBUTING.md
+Task6: https://github.com/philsv/jbbmo-Introduction-to-Git-and-GitHub/blob/master/simple-interest.sh
+Task7: https://github.com/philsv
+Task8: https://github.com/philsv/jbbmo-Introduction-to-Git-and-GitHub
+Task9: https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub/pull/19219
+Task10: https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub/pull/19221
